@@ -11,7 +11,7 @@
   
   - [Design a bridge made of Acrylic](https://github.com/Etzeban/BridgeDesign)
   
-  - [Design a gravity racer](https://github.com/Etzeban/GravityRacer)
+
 
 
 <h2> 🤳 Connect with me:</h2>
